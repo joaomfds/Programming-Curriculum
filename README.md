@@ -9,6 +9,7 @@
 ## Web Developer Skills
 - Make a Website
 - Learn the Command Line
+- Learn Git
 
 ## Language Skills
 - HTML & CSS
@@ -20,6 +21,10 @@
 - A Closer Look at CSS
 - Boundaries and Space
 - Building with Bootstrap
+
+#### HTML & CSS
+- Introduction to HTML
+
 
 #### jQuery
 - Introducing jQuery
@@ -33,6 +38,6 @@
 
 #### Learn Git
 - Basic Git Workflow
-- How to Backtrack in GIT
+- How to Backtrack in Git
 - GIT Branching
 - GIT teamwork
