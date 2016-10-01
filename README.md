@@ -26,6 +26,9 @@
 - HTML Basics I
 - HTML Basics II
 - HTML Basics III
+- Introduction to CSS
+- CSS Classes and IDs
+
 
 #### jQuery
 - Introducing jQuery
