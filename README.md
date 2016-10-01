@@ -23,8 +23,8 @@
 - Building with Bootstrap
 
 #### HTML & CSS
-- Introduction to HTML
-
+- HTML Basics I
+- HTML Basics II
 
 #### jQuery
 - Introducing jQuery
