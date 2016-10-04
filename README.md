@@ -2,9 +2,9 @@
 
 #www.codecademy.com
 # CODECADEMY
-- Skills completed: 3 
-- Badges: 26
-- Total points: 143
+- Skills completed: 4 
+- Badges: 50
+- Total points: 302
 
 ## Web Developer Skills
 - Make a Website
