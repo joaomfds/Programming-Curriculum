@@ -28,7 +28,7 @@
 - HTML Basics III
 - Introduction to CSS
 - CSS Classes and IDs
-
+- CSS Element Positioning
 
 #### jQuery
 - Introducing jQuery
