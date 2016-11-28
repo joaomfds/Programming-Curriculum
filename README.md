@@ -4,7 +4,7 @@
 # CODECADEMY
 - Skills completed: 4 
 - Badges: 50
-- Total points: 302
+- Total points: 314
 
 ## Web Developer Skills
 - Make a Website
@@ -45,3 +45,6 @@
 - How to Backtrack in Git
 - GIT Branching
 - GIT teamwork
+
+#### JavaScript
+- Getting started with Programming
