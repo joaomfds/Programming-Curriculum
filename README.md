@@ -3,8 +3,8 @@
 #www.codecademy.com
 # CODECADEMY
 - Skills completed: 4 
-- Badges: 50
-- Total points: 314
+- Badges: 53
+- Total points: 337
 
 ## Web Developer Skills
 - Make a Website
@@ -48,3 +48,4 @@
 
 #### JavaScript
 - Getting started with Programming
+- Code Your Own Adventure
