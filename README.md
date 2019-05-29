@@ -10,6 +10,7 @@
 - Make a Website
 - Learn the Command Line
 - Learn Git
+	-Git Refresher
 
 ## Language Skills
 - HTML & CSS
